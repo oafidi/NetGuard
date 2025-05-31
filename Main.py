@@ -43,7 +43,7 @@ EMAIL_ENABLED = True
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 SMTP_USER = "omarafidi2005@gmail.com"
-SMTP_PASSWORD = "uvha wayi txgi dobi"
+SMTP_PASSWORD = ""
 ALERT_EMAIL = "elbahchoumichaimae1@gmail.com"
 
 # Buffer circulaire pour les données d'entraînement et réentraînement périodique
